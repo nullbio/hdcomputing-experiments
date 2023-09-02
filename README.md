@@ -2,6 +2,8 @@
 
 Hyper-Dimensional Computing experiments (HDComputing, or Vector Symbolic Architectures).
 
+See: [hd-computing.com](https://hd-computing.com) for VSA resources.
+
 # 1.py
 
 Experimenting with the concept of using a hypervector VSA for data compression. A deterministic codebook is created of an ASCII encoding, and each index position of the given input sequence (or file byte sequence) is bound to the codebook's mapping hypervector. We use level hypervectors for the inputs index because it is a linear representation. This has proven to be beneficial, (see [An Extension to Basis-Hypervectors for Learning
