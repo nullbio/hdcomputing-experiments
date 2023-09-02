@@ -1,6 +1,6 @@
 # hdcomputing-experiments
 
-Hyper-Dimensional Computing experiments (HDComputing, or Symbolic Vector Architectures).
+Hyper-Dimensional Computing experiments (HDComputing, or Vector Symbolic Architectures).
 
 # 1.py
 
